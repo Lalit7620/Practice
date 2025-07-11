@@ -1,2 +1,2 @@
 # Practice
-Author-Lalit
+Author-Lalit Kumar Sahoo
